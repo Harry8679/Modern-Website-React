@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Modern-Website-React/static/css/main.4ec94d0b.css",
+    "main.js": "/Modern-Website-React/static/js/main.1a0e1442.js",
+    "static/js/453.7e3e6ee5.chunk.js": "/Modern-Website-React/static/js/453.7e3e6ee5.chunk.js",
+    "static/media/rocket.jpg": "/Modern-Website-React/static/media/rocket.e037e7244d5673c3e757.jpg",
+    "static/media/idea.jpg": "/Modern-Website-React/static/media/idea.ace48711f27a03cb5b55.jpg",
+    "static/media/brain.jpg": "/Modern-Website-React/static/media/brain.7986eb93f32224255f2c.jpg",
+    "static/media/offre.png": "/Modern-Website-React/static/media/offre.a9c0601a213dfccab727.png",
+    "static/media/maths.png": "/Modern-Website-React/static/media/maths.50f11627cf012ce70433.png",
+    "static/media/cours.png": "/Modern-Website-React/static/media/cours.f59534a990ab39c344a3.png",
+    "static/media/harry_profile.png": "/Modern-Website-React/static/media/harry_profile.cc0c069a472a637d9d73.png",
+    "index.html": "/Modern-Website-React/index.html",
+    "main.4ec94d0b.css.map": "/Modern-Website-React/static/css/main.4ec94d0b.css.map",
+    "main.1a0e1442.js.map": "/Modern-Website-React/static/js/main.1a0e1442.js.map",
+    "453.7e3e6ee5.chunk.js.map": "/Modern-Website-React/static/js/453.7e3e6ee5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec94d0b.css",
+    "static/js/main.1a0e1442.js"
+  ]
+}
